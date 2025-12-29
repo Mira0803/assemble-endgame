@@ -163,6 +163,8 @@ section.keyboard {
 section.keyboard > button {
   height: 35px;
   width: 35px;
+  font-size: 0.8rem;
+  font-weight: 600;
   color: #000;
   background-color: #FCBA29;
   border: 1px solid #D7D7D7;
